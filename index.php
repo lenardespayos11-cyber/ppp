@@ -127,7 +127,7 @@ function e($v) { return htmlspecialchars((string)$v, ENT_QUOTES, 'UTF-8'); }
                 <div class="portfolio-layer">
                     <h4>Cogwork</h4>
                     <p>An interactive web platform dedicated to educating users on bicycle assembly, routine maintenance, and hardware repair.</p>
-                    <a href="#"><i class='bx bx-link-external'></i></a>
+                    <a href="https://cogwork.vercel.app/"><i class='bx bx-link-external'></i></a>
                 </div>
             </div>
         </div>
